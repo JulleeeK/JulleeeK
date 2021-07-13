@@ -1,0 +1,2 @@
+- Undergrad student in Computer Science
+- working at univiecube
