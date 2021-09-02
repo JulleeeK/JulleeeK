@@ -2,4 +2,4 @@
 
 **- Undergrad student in Computer Science**
 
-**- working at univiecube**
+**- working at univieCUBE**
