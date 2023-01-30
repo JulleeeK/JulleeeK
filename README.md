@@ -2,4 +2,4 @@
 
 **- Student in Computer Science at [University of Vienna](https://www.univie.ac.at/)**
 
-**- working at [univieCUBE](https://github.com/univieCUBE)**
+**- working as Head of IT at Gemeindeamt St.Andrä-Wördern**
